@@ -1,5 +1,9 @@
 
+# Preparation
 
+## Ubuntu
+
+apt-get install docker.io nodejs node-npm code
 
 
 # Zipkin Container
