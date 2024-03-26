@@ -10,6 +10,7 @@ apt-get install docker.io nodejs node-npm code
 ```
 npm i @opentelemetry/core @opentelemetry/node @opentelemetry/plugin-http @opentelemetry/plugin-https \
 	@opentelemetry/exporter-zipkin @opentelemetry/tracing express
+npm i @opentelemetry/plugin-express
 ```
 
 # Zipkin Container
